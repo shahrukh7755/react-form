@@ -1,0 +1,29 @@
+.form-input {
+    border: none;
+    background-color: lightblue;
+    border-radius: 5px;
+    margin:5px 0;
+    height: 20px;
+    width:400px
+}
+
+table,tr,th,td {
+    padding:5px;
+    width: 70vh;
+    margin:10px auto;
+    border:2px solid black;
+    border-radius: 5px;
+}
+th {
+    background-color: black;
+    color: white;
+}
+button {
+   min-width: 100px;
+   color: white;
+   border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin: auto;
+    cursor: pointer;
+}
